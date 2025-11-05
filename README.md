@@ -1,4 +1,4 @@
-## Hi there 👋
+resin-art, handcrafted, luxury, jewelry, home-decor, animation, HTML, CSS, JS, GitHub-Pages, ecommerce
 
 <!--
 **Zyerlithart/Zyerlithart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
